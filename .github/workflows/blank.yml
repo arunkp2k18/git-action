@@ -6,6 +6,6 @@ jobs:
   steps:
    - name: First Step
      run: echo "First Step"
-  - name: Second Step
-    run: echo "Second Step"
+   - name: Second Step
+     run: echo "Second Step"
     
